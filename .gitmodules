@@ -1,0 +1,12 @@
+[submodule "suckless/dmenu"]
+	path = suckless/dmenu
+	url = https://github.com/oddegen/dmenu.git
+[submodule "suckless/dwm"]
+	path = suckless/dwm
+	url = https://github.com/oddegen/dwm.git
+[submodule "suckless/slock"]
+	path = suckless/slock
+	url = https://github.com/oddegen/slock.git
+[submodule "suckless/slstatus"]
+	path = suckless/slstatus
+	url = https://github.com/oddegen/slstatus.git
